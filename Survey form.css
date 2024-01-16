@@ -1,0 +1,61 @@
+.background{
+    width:100%;
+    background-image:url(https://media.istockphoto.com/id/1398473177/photo/questionnaire-with-checkboxes-filling-survey-form-online-answer-questions.jpg?b=1&s=170667a&w=0&k=20&c=Ld-E8ElmNgDKGxFBVyVFqqBDG6byHF98amsRMYFEedk=);
+    background-size:100% 100%;
+    color:white;
+  }
+  .title{
+    color:white;
+    text-align:center;
+    font-size:19;
+    font-family:tahoma;
+  } 
+  fieldset{
+    border:none;
+    margin:0.5em auto;
+  }
+  div{
+    width:50%;
+    margin:1.5em auto;
+    background-color:#1b1b32;
+    opacity:88%;
+    font-family:tahoma;
+  }
+  label{
+   display:block;
+   margin:0.5em auto;
+   padding-bottom:0.5em;
+   font-size:20px;
+   font-family:tahoma;
+  }
+  input{
+  width:100%;
+  margin:0.5em 0;
+  padding:0.5em 0.5em;
+  font-size:15px;
+  }
+  .inline{
+    width:unset;
+    margin-right:0.5em;
+    font-size:15px;
+    }
+  select{
+    width:100%;
+    padding:0.5em 0.5em;
+    font-family:tahoma;
+    font-size:15px;
+    }
+  textarea{
+    width:100%;
+    font-family:tahoma;
+    font-size:15px;
+  }
+  button{
+    width:100%;
+    margin:1em auto 0.5em auto;
+    padding:0.5em;
+    background-color:rgb(15,246,125);
+    font-size:20px;
+    border:none;
+  }
+  
